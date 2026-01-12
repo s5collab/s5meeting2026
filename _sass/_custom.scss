@@ -1,0 +1,13 @@
+.fixed-logos {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  gap: 10px; /* Space between the two logos */
+}
+
+.fixed-logos img {
+  height: 50px; /* Adjust size as needed */
+  width: auto;
+}

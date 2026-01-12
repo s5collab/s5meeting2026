@@ -1,5 +1,8 @@
 title: "S5 Meeting 2026"
 description: "The website for the S5 collaboration meeting in Sydney in 2026"
+
+copyright: S5 Collaboration
+
 remote_theme: piazzai/jekyll-nagymaros
 plugins:
   - jekyll-remote-theme

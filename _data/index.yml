@@ -1,0 +1,9 @@
+alerts:
+  - title: "Hello!"
+    text: Welcome to S5 meeting in Sydney, Australia in 2026.
+    color: green-1
+buttons:
+  - text: S5 Collaboration
+    url: https://s5collab.github.io/
+    disabled: false
+    

@@ -1,0 +1,10 @@
+center: -33.774207, 151.114803
+zoom: 15
+# Add one or more markers; for a single venue, just one marker is fine
+markers:
+  - title: Macquarie University
+    latlng: -33.77421523063759, 151.11467063124732
+  - title: The University of Sydney
+    latlng: -33.88800078873329, 151.18709446387484
+  - title: The University of New South Wales
+    latlng: -33.91726018653541, 151.2317288392399

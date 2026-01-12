@@ -1,0 +1,81 @@
+groups:
+  - title: Organizers
+    sort: false
+    columns: false
+    members:
+      - name: Daniel
+        surname: Zucker
+        email: daniel.zucker@mq.edu.au
+        affil: Macquarie University
+      - name: Aldo
+        surname: Mura
+        email: aldoandres.muraguzman@mq.edu.au
+        affil: Macquarie University
+      - name: Ting
+        surname: Li
+        email: ting.li@astro.utoronto.ca
+        affil: The University of Toronto
+      - name: Geraint
+        surname: Lewis
+        email: geraint.lewis@sydney.edu.au
+        affil: The University of Sydney
+      - name: Sarah
+        surname: Martell
+        email: s.martell@unsw.edu.au
+        affil: The University of New South Wales
+      - name: Yong
+        surname: Yang
+        email: yong.yang@sydney.edu.au
+        affil: The University of Sydney
+
+  - title: Participants (S5)
+    sort: true
+    columns: true
+    members:
+      - name: Joss
+        surname: Bland-Hawthorn
+      - name: Madeleine
+        surname: McKenzie
+      - name: Adithya
+        surname: Gudalur Balasubramaniam
+      - name: Miles
+        surname: Pearson
+      - name: Gary
+        surname: Da Costa
+      - name: Lara
+        surname: Cullinane
+      - name: Nora
+        surname: Shipp
+      - name: Kaitlin
+        surname: Webber
+      - name: Denis
+        surname: Erkal
+      - name: Tim
+        surname: Adams
+      - name: Pradosh
+        surname: Barun Das
+      - name: Sergey
+        surname: Koposov
+      - name: Ethan
+        surname: Bull
+      - name: Andrew
+        surname: Li
+      - name: Simon
+        surname: Correra
+      - name: Peter
+        surname: Ferguson
+
+  - title: Participants (friends)
+    sort: true
+    columns: true
+    members:
+      - name: Sven
+        surname: Buder
+      - name: Giacomo
+        surname: Cordoni
+      - name: Luca
+        surname: Casagrande
+      - name: Melissa
+        surname: Ness
+      - name: Holger
+        surname: Baumgardt

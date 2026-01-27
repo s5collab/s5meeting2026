@@ -49,9 +49,9 @@ days:
         subtitle: "Stellar streams are key tracers of Galactic halo assembly, but their chemical characterisation has often relied on low-resolution spectroscopy. I will present preliminary chemical abundances for stars in the Indus and Jhelum stellar streams derived from high-resolution MIKE spectra. These results will be discussed in the context of the current landscape of stellar stream spectroscopy within S5."
         category: Chemical
       - time: 14:40 to 15:00
-        title: "TBD (Giacomo Cordoni)"
-        subtitle: TBD
-        category: General
+        title: "Lost in the Stream. Can stellar streams from globular clusters reveal the origin of multiple populations? (Giacomo Cordoni)"
+        subtitle: "Ancient globular clusters are fundamental building blocks of the Milky Way and key tracers of its early formation and chemical evolution, yet they host multiple stellar populations with distinct light-element abundance patterns whose origin remains poorly understood. Stellar streams formed through tidal stripping offer a direct means to probe the formation of these populations and to test competing formation scenarios. By comparing the chemical composition of stars in streams with that of their parent systems, it is possible to assess whether specific populations are preferentially lost into the Galactic halo. This project will exploit high- and intermediate-resolution UVES and GIRAFFE spectroscopy at the Very Large Telescope to derive precise abundances of key elements for approximately 60 stream stars, thereby placing strong constraints on the origin of multiple stellar populations."
+        category: Chemical
       - time: 15:00 to 15:40
         title: Break
       - time: 15:40 to 16:00

@@ -64,6 +64,31 @@ groups:
         surname: Correra
       - name: Peter
         surname: Ferguson
+      - name: Lucas
+        surname: Glover
+
+  - title: Participants (S5-online)
+    sort: true
+    columns: true
+    members:
+      - name: Alex
+        surname: Ji
+      - name: Andrew
+        surname: Pace
+      - name: Clara
+        surname: Martínez-Vázquez
+      - name: Ghilerme
+        surname: Limberg
+      - name: Gustavo
+        surname: Medina Toledo
+      - name: Kyler
+        surname: Kuehn
+      - name: Nathan
+        surname: Sandford
+      - name: Petra
+        surname: Awad
+      - name: Sam
+        surname: Usman
 
   - title: Participants (friends)
     sort: true
@@ -79,3 +104,5 @@ groups:
         surname: Ness
       - name: Holger
         surname: Baumgardt
+      - name: Tomasz
+        surname: Różański

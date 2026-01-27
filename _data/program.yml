@@ -13,7 +13,7 @@ days:
       - time: 9:20 to 9:40
         title: Welcome & Acknowledgements
       - time: 9:40 to 10:20
-        title: S5 Overview: achievments and the future
+        title: "S5 Overview: achievments and the future"
         subtitle: overview of S5 over the past 6 yrs.
         category: General
       - time: 10:20 to 11:00
@@ -31,7 +31,7 @@ days:
         subtitle: S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target.
         category: Chemical
       - time: 12:00 to 12:20
-        title: GALAH 2: Higher Spectrum Quality for New Insights into Nucleosynthesis
+        title: "GALAH 2: Higher Spectrum Quality for New Insights into Nucleosynthesis"
         subtitle: GALAH has shown how far large spectroscopic surveys can take us in mapping the chemistry of the Milky Way halo and its accreted structures. At the same time, it has made clear that many of the most interesting questions about nucleosynthesis and accretion origins are now limited by spectral quality rather than sample size. In this talk, I will outline a vision for GALAH 2 that prioritises high signal-to-noise and precision-driven chemistry. I will highlight new ideas we are exploring, including the use of benchmark stars to anchor abundance scales, high-precision differential spectroscopy of metal-poor stellar twins, and the combination of ultra-high-SNR 2dF-HERMES spectra with targeted very high-resolution observations from Veloce. The goal is to open discussion on how these approaches can sharpen chemical distinctions between streams and dwarf-galaxy debris, test nucleosynthetic pathways in the metal-poor regime, and define the next generation of halo and stream science within the collaboration.
         category: Chemical
       - time: 12:20 to 13:40
@@ -45,7 +45,7 @@ days:
         subtitle: Jhelum and Indus are two stellar streams targeted by the S5 survey, the former having displayed a unique behaviour of containing two kinematically distinct components. Using Gaussian mixture modelling, we procure an updated member list and report, for the first time, a second kinematically distinct component in Indus as well. Through various tests and simulations, we present new evidence of the reasons behind this phenomenon. This paper is in its final stages and will be ready for collaboration wide review.
         category: Modelling
       - time: 14:20 to 14:40
-        title: Hot Halo Summer: Abundances Too Preliminary to Be Legal
+        title: "Hot Halo Summer: Abundances Too Preliminary to Be Legal"
         subtitle: Stellar streams are key tracers of Galactic halo assembly, but their chemical characterisation has often relied on low-resolution spectroscopy. I will present preliminary chemical abundances for stars in the Indus and Jhelum stellar streams derived from high-resolution MIKE spectra. These results will be discussed in the context of the current landscape of stellar stream spectroscopy within S5.
         category: Chemical
       - time: 14:40 to 15:00
@@ -79,7 +79,7 @@ days:
         subtitle: I will present my neverending work on high-alpha stellar streams. I will go through its comparison with intact dwarfs members, potential systematics, comparison with chemical evolution models, and why this high-alpha enrichment seems to be very hard to achieve with our current chemical evolution framework.
         category: Chemical
       - time: 11:20 to 11:40
-        title: Abundances in accreted dwarf galaxies: systematic differences between fully accreted systems and stellar streams
+        title: "Abundances in accreted dwarf galaxies: systematic differences between fully accreted systems and stellar streams"
         subtitle: I will present a comparison between the abundance patterns in accreted dwarf galaxies and dwarf galaxy streams using data from Gaia, GALAH, as well as specific stream targeting surveys. Dwarf galaxy streams merged with the Milky Way at a much later time then phased mixed, fully accreted, systems. Understanding the differences in properties and evolution between these two groups is crucial to reconstruct the evolutionary history of both dwarf galaxies, and the whole Milky Way. Results have indicated that there is correlation between infall time of our fully accreted progenitors and their chemical composition, as well as a clear separation between our dwarf galaxy streams and their equivalent mass fully accreted systems. I will discuss the significance of these results as well as the challenges in using them to model the evolutionary history of these dwarf galaxies.
         category: Chemical
       - time: 11:40 to 12:00

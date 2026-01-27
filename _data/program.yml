@@ -1,55 +1,161 @@
 legend:
-  title: Legend
+  title: Topic
   categories:
-    - name: A category
+    - name: General
       color: blue-6
-    - name: Another category
+    - name: Modelling
       color: red-6
-    - name: Yet another category
+    - name: Chemical
       color: teal-6
 days:
-  - name: Presentation (2-4 Feb.)
+  - name: Presentation (Feb 2)
     events:
-      - time: 8:00 to 9:00
-        title: Registration and coffee
-      - time: 9:00 to 11:00
-        title: Lorem ipsum
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: A category
-      - time: 11:00 to 13:00
-        title: Dolor sit amet
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Consectetur adipiscing elit
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 16:00 to 18:00
-        title: Sed do eiusmod
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-        category: Another category
-  - name: SSO trip (5-8 Feb.)
+      - time: 9:20 to 9:40
+        title: Welcome & Acknowledgements
+      - time: 9:40 to 10:20
+        title: S5 Overview: achievments and the future
+        subtitle: overview of S5 over the past 6 yrs.
+        category: General
+      - time: 10:20 to 11:00
+        title: Break
+      - time: 11:00 to 11:20
+        title: S5 catalogue
+        subtitle: We will go through the S5 catalogue together and what we will see in the upcoming public data release DR2.
+        category: General
+      - time: 11:20 to 11:40
+        title: Models available for S5 and beyond
+        subtitle: In this talk, I will summarise the suite of simulations and models we have available to compare with S5 data. These models range from Lagrange Cloud stripping models of stellar streams (both dwarf galaxy and globular cluster streams) which are quick to generate and can be used to fit streams, to N-body simulations which are computationally expensive but more accurate. I will also discuss a recently implemented method called Restricted N-body (used for the recent Crater 2 paper) which sits between the two in terms of accuracy and computational time. Finally, I will discuss the library of models that exist on the google drive.
+        category: Modelling
+      - time: 11:40 to 12:00
+        title: Why would you get chemical abundances in streams?
+        subtitle: S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target.
+        category: Chemical
+      - time: 12:00 to 12:20
+        title: GALAH 2: Higher Spectrum Quality for New Insights into Nucleosynthesis
+        subtitle: GALAH has shown how far large spectroscopic surveys can take us in mapping the chemistry of the Milky Way halo and its accreted structures. At the same time, it has made clear that many of the most interesting questions about nucleosynthesis and accretion origins are now limited by spectral quality rather than sample size. In this talk, I will outline a vision for GALAH 2 that prioritises high signal-to-noise and precision-driven chemistry. I will highlight new ideas we are exploring, including the use of benchmark stars to anchor abundance scales, high-precision differential spectroscopy of metal-poor stellar twins, and the combination of ultra-high-SNR 2dF-HERMES spectra with targeted very high-resolution observations from Veloce. The goal is to open discussion on how these approaches can sharpen chemical distinctions between streams and dwarf-galaxy debris, test nucleosynthetic pathways in the metal-poor regime, and define the next generation of halo and stream science within the collaboration.
+        category: Chemical
+      - time: 12:20 to 13:40
+        title: Lunch
+      - time: 13:40 to 14:00
+        title: The Indus and Jhelum streams in S5
+        subtitle: I will describe our group's work to date using S5 data to investigate the Indus and Jhelum streams. I will cover our process for determining membership, distance, velocity dispersion, and progenitor mass, and outline what remains do be done on the project.
+        category: General
+      - time: 14:00 to 14:20
+        title: The origins of the dual Jhelum and Indus stream components
+        subtitle: Jhelum and Indus are two stellar streams targeted by the S5 survey, the former having displayed a unique behaviour of containing two kinematically distinct components. Using Gaussian mixture modelling, we procure an updated member list and report, for the first time, a second kinematically distinct component in Indus as well. Through various tests and simulations, we present new evidence of the reasons behind this phenomenon. This paper is in its final stages and will be ready for collaboration wide review.
+        category: Modelling
+      - time: 14:20 to 14:40
+        title: Hot Halo Summer: Abundances Too Preliminary to Be Legal
+        subtitle: Stellar streams are key tracers of Galactic halo assembly, but their chemical characterisation has often relied on low-resolution spectroscopy. I will present preliminary chemical abundances for stars in the Indus and Jhelum stellar streams derived from high-resolution MIKE spectra. These results will be discussed in the context of the current landscape of stellar stream spectroscopy within S5.
+        category: Chemical
+      - time: 14:40 to 15:00
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 15:00 to 15:40
+        title: Break
+      - time: 15:40 to 16:00
+        title: Discussion
+      - time: 17:30 to 19:00
+        title: Welcome Reception
+  - name: Presentation (Feb 3)
     events:
-      - time: 8:00 to 9:00
-        title: Coffee
-      - time: 9:00 to 11:00
-        title: Tempor incididunt
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 11:00 to 13:00
-        title: Ut labore et dolore
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Magna aliqua
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
-      - time: 16:00 to 18:00
-        title: Poster presentations
-        category: Yet another category
-      - time: 18:00 to 19:00
-        title: Closing
+      - time: 9:20 to 9:40
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 9:40 to 10:00
+        title: The S5 view of the Jet stream
+        subtitle: The Jet stream is a dynamically cold, retrograde stellar stream with a large pericenter, making it one of the most promising substructures for probing dark matter subhalo–stellar stream interactions. As part of the S5 survey, spectra have been obtained for objects in 17 fields spanning over 30° along the Jet stream. From these observations, we have identified ~150 member stars that can be used to reveal how the kinematic and spatial structure of the stream varies along its track. Additionally, I will compare these results to previous photometric studies.
+        category: General
+      - time: 10:00 to 10:20
+        title: Charting Antlia II’s Tidal Debris with RR Lyrae Stars
+        subtitle: Recent studies suggest that Antlia II is undergoing tidal disruption, evidenced by a clear velocity and distance gradient among its exceptionally pure RR Lyrae stars, supporting models of tidal influences on its stellar distribution. However, these studies did not extend far enough to map and examine the stellar stream associated with Antlia II. We therefore led an observing campaign using DECam to complement previous data and to map the outskirts of Antlia II over 60 sq. deg., identifying thousands of RR Lyrae stars which enable us to study the width of the stream and provide constraints on whether Antlia II was originally embedded in a cuspy or cored halo.
+        category: Modelling
+      - time: 10:20 to 11:00
+        title: Break
+      - time: 11:00 to 11:20
+        title: High-alpha streams
+        subtitle: I will present my neverending work on high-alpha stellar streams. I will go through its comparison with intact dwarfs members, potential systematics, comparison with chemical evolution models, and why this high-alpha enrichment seems to be very hard to achieve with our current chemical evolution framework.
+        category: Chemical
+      - time: 11:20 to 11:40
+        title: Abundances in accreted dwarf galaxies: systematic differences between fully accreted systems and stellar streams
+        subtitle: I will present a comparison between the abundance patterns in accreted dwarf galaxies and dwarf galaxy streams using data from Gaia, GALAH, as well as specific stream targeting surveys. Dwarf galaxy streams merged with the Milky Way at a much later time then phased mixed, fully accreted, systems. Understanding the differences in properties and evolution between these two groups is crucial to reconstruct the evolutionary history of both dwarf galaxies, and the whole Milky Way. Results have indicated that there is correlation between infall time of our fully accreted progenitors and their chemical composition, as well as a clear separation between our dwarf galaxy streams and their equivalent mass fully accreted systems. I will discuss the significance of these results as well as the challenges in using them to model the evolutionary history of these dwarf galaxies.
+        category: Chemical
+      - time: 11:40 to 12:00
+        title: Chemical and Dynamical Memory of Accretion Events in the Milky Way Halo
+        subtitle: The Milky Way halo contains multiple, partially overlapping records of past accretion events in phase space, chemistry, and stellar populations. In this talk, I will give a structured overview of recent results from my work and that of my students, focusing on what information about accreted systems is preserved, what is erased, and where current methods succeed or fail. Rather than a single narrative, the talk will be organised around a set of concrete topics, each with prepared (and expandable) slides. I warmly encourage questions and discussion on any of these points during or after the talk. Topics I will cover include: - Strengths and limitations of chemical and/or dynamical selections in GALAH survey data (Buder et al. 2022). - What cosmological zoom-in simulations tell us about the limitations of these selections (Buder et al. 2024) - How much information of merger progenitors is actually retained in the now accreted stars (Buder et al. 2025) - The chemical predictions cosmological zoom-in simulations for different elements in dwarf galaxies (Honours project by Shanti Woodend) - What our measurements in dwarf galaxies with low-resolution MUSE spectra suggests their actual chemical diversity may look like (Cornejo-Cárdenas, Buder, Ness in prep.)
+        category: Chemical
+      - time: 12:00 to 12:20
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 12:20 to 13:40
+        title: Lunch
+      - time: 13:40 to 15:00
+        title: Hands on the S5 data
+        category: General
+      - time: 15:00 to 15:40
+        title: Break
+      - time: 15:40 to 16:20
+        title: Discussion
+  - name: Presentation (Feb 4)
+    events:
+      - time: 9:20 to 9:40
+        title: Detecting Dark Subhalos with LSST Streams
+        subtitle: I will present recent work in the LSST DESC Dark Matter Working Group on building tools to measure properties of dark subhalos using stellar streams in LSST. First, I'll present our recently submitted paper 'Forecasting Dark Matter Subhalo Constraints from Stellar Streams using Implicit Likelihood Inference' and then updates on new work in progress applying this pipeline to S5 data.
+        category: Modelling
+      - time: 9:40 to 10:00
+        title: Epicyclic density variations of Indus stream
+        subtitle: I will show the measurement of density profile along the Indus stream based on Gaia DR3. Its episodic peaks and gaps tend to be caused by the internal epicycles, as revealed by N-body modelling.
+        category: Modelling
+      - time: 10:00 to 10:20
+        title: Mapping out the Milky Way and LMC's dark matter halo with the OC stream
+        subtitle: I will present fits to the OC stream which can match the observed kink in the stream. I will focus on what this tells us about the LMC's past orbit, how we can use it to measure the dynamical friction experienced by the LMC, and also what it tells us about the Milky Way's dark matter halo. Our first key result is that the LMC appears to have experienced roughly twice as much dynamical friction as expected. Our second key result is that the stream is bestfit with a triaxial Milky Way whose long axis lines up with previous measurements based on the Sagittarius stream and the stellar halo. I will discuss the implications of both results.
+        category: Modelling
+      - time: 10:20 to 11:00
+        title: Break
+      - time: 11:00 to 11:20
+        title: N-body modeling of globular cluster tails
+        subtitle: In recent years a large number of tidal streams have been discovered in the halo of the Milky Way thanks to large scale surveys like Gaia. These streams can provide important information about the dark matter distribution in the Milky Way since many of them can be traced over long distances over the sky. In this contribution we report on a large set of N-body simulations aimed at modeling the formation and spatial distribution of tidal tails emerging from dissolving globular clusters and the comparison of observed streams with the results of our simulations.
+        category: Modelling
+      - time: 11:20 to 11:40
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 11:40 to 12:00
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 12:00 to 12:20
+        title: Can insights from neural networks help us improve models of stellar atmospheres?
+        subtitle: Neural networks trained on synthetic stellar spectra appear to develop internal features closely related to atomic physics and stellar atmospheres. I'll briefly share some results on how examining these internal network features might help us improve spectroscopic modeling.
+        category: Chemical
+      - time: 12:20 to 13:40
+        title: Lunch
+      - time: 13:40 to 14:00
+        title: Streams at the Extremes?
+        subtitle: While current and upcoming wide-field spectroscopic surveys (including e.g. SDSS-V and 4MOST) are revolutionising searches and follow-up of low-density stellar structures like streams, tidal tails from globular clusters, and diffuse features in the outskirts of dwarf galaxies, there remains one area that is significantly less well-explored. In particular, many large-scale surveys avoid extreme southern declinations (i.e. declinations below -80 degrees) as these are often considered “inefficient” to observe. In this talk, I will argue that this is a unique discovery space worthy of exploration, and that 2dF/AAOmega on the AAT is the only facility that has the capacity to perform such studies in the next ~decade. In this context, I invite discussion on how a survey effort focussed on these extreme declinations, of significant legacy value, could be performed.
+        category: General
+      - time: 14:00 to 14:20
+        title: TBD
+        subtitle: TBD
+        category: General
+      - time: 14:20 to 14:40
+        title: DESI
+        subtitle: DESI intro and some results
+        category: General
+      - time: 14:40 to 15:00
+        title: Discussion
+      - time: 15:00 to 15:40
+        title: Break
+      - time: 15:40 to 16:20
+        title: Wrap up & Final words
+  - name: SSO trip (Feb 5)
+    events:
+      - time: 9:30 to 16:30
+        title: Departure to AAT
+  - name: SSO trip (Feb 8)
+    events:
+      - time: 10:00 to 15:00
+        title: Departure to Syd

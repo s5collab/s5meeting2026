@@ -1,9 +1,9 @@
-center: -33.86662900299285, 151.2083962423292
+center: -33.86666018290974, 151.2084069711645
 zoom: 15
 # Add one or more markers; for a single venue, just one marker is fine
 markers:
   - title: Macquarie University City Campus
-    latlng: -33.86662900299285, 151.2083962423292
+    latlng: -33.86666018290974, 151.2084069711645
   - title: The University of Sydney
     latlng: -33.88800078873329, 151.18709446387484
   - title: The University of New South Wales

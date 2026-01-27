@@ -9,3 +9,5 @@ navorder: 3
 level 24/123 Pitt St, Sydney NSW 2000
 
 The meeting will be held at the Macquarie University City Campus. See the interactive map below for the location and direction.
+
+Note: Drink reception on Monday 5:30 pm at Macquarie main campus [location here](https://maps.app.goo.gl/ZsQiFJr92cafxhuy9).

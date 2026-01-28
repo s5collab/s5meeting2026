@@ -6,4 +6,6 @@ buttons:
   - text: S5 Collaboration
     url: https://s5collab.github.io/
     disabled: false
-    
+  - text: Online via Zoom
+    url: https://macquarie.zoom.us/j/85356182963?pwd=ea4xrKg4IaXpakeWv9BPdSnZ38pWXz.1
+    disabled: false

@@ -61,9 +61,9 @@ days:
   - name: Presentation (Feb 3)
     events:
       - time: 9:20 to 9:40
-        title: "TBD (Adithya GB)"
-        subtitle: TBD
-        category: General
+        title: "The S5 Survey’s View of the Enigmatic Cluster NGC 1851's Stellar Stream (Adithya GB)"
+        subtitle: "I will describe ongoing work using S5 observations to study and model the stellar stream associated with the globular cluster NGC 1851. Previous studies of NGC 1851 found an extended stellar halo and two distinct metallicity peaks, leading to the hypothesis that the cluster could be the product of the merger of two globular clusters, perhaps within the core of a now disrupted dwarf galaxy. I will present our analysis of stream membership and the distribution of metallicity and light elements along the stream. Finally, I’ll discuss the implications of this work for our understanding of other small and complex stellar systems in the Milky Way’s halo."
+        category: Chemical
       - time: 9:40 to 10:00
         title: "The S5 view of the Jet stream (Peter Ferguson)"
         subtitle: "The Jet stream is a dynamically cold, retrograde stellar stream with a large pericenter, making it one of the most promising substructures for probing dark matter subhalo–stellar stream interactions. As part of the S5 survey, spectra have been obtained for objects in 17 fields spanning over 30° along the Jet stream. From these observations, we have identified ~150 member stars that can be used to reveal how the kinematic and spatial structure of the stream varies along its track. Additionally, I will compare these results to previous photometric studies."
@@ -124,9 +124,9 @@ days:
         subtitle: TBD
         category: General
       - time: 11:40 to 12:00
-        title: "TBD (Ethan Bull)"
-        subtitle: TBD
-        category: General
+        title: "Extending the AAOmega archive with The Cannon (Ethan Bull)"
+        subtitle: "AAOmega is a low to medium resolution spectrograph that has a large archive of stellar spectra dating from 2006 to 2021. I employ the use of the data driven algorithm “The Cannon” to estimate the stellar parameters Teff, log g, and [Fe/H], and abundances [X/Fe] for Si, Ca, Ti, Mn, and Ni for over 414,000 of these spectra, using the GALAH DR4 label scale."
+        category: Chemical
       - time: 12:00 to 12:20
         title: "Can insights from neural networks help us improve models of stellar atmospheres? (Tomasz  Różański)"
         subtitle: "Neural networks trained on synthetic stellar spectra appear to develop internal features closely related to atomic physics and stellar atmospheres. I'll briefly share some results on how examining these internal network features might help us improve spectroscopic modeling."

@@ -27,9 +27,9 @@ days:
         subtitle: "In this talk, I will summarise the suite of simulations and models we have available to compare with S5 data. These models range from Lagrange Cloud stripping models of stellar streams (both dwarf galaxy and globular cluster streams) which are quick to generate and can be used to fit streams, to N-body simulations which are computationally expensive but more accurate. I will also discuss a recently implemented method called Restricted N-body (used for the recent Crater 2 paper) which sits between the two in terms of accuracy and computational time. Finally, I will discuss the library of models that exist on the google drive."
         category: Modelling
       - time: 11:40 to 12:00
-        title: "Why would you get chemical abundances in streams? (Alex Ji)"
-        subtitle: "S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target."
-        category: Chemical
+        title: "TBD (Daniel Zucker)"
+        subtitle: "TBD"        
+        category: General
       - time: 12:00 to 12:20
         title: "GALAH 2: Higher Spectrum Quality for New Insights into Nucleosynthesis (Sven Buder)"
         subtitle: "GALAH has shown how far large spectroscopic surveys can take us in mapping the chemistry of the Milky Way halo and its accreted structures. At the same time, it has made clear that many of the most interesting questions about nucleosynthesis and accretion origins are now limited by spectral quality rather than sample size. In this talk, I will outline a vision for GALAH 2 that prioritises high signal-to-noise and precision-driven chemistry. I will highlight new ideas we are exploring, including the use of benchmark stars to anchor abundance scales, high-precision differential spectroscopy of metal-poor stellar twins, and the combination of ultra-high-SNR 2dF-HERMES spectra with targeted very high-resolution observations from Veloce. The goal is to open discussion on how these approaches can sharpen chemical distinctions between streams and dwarf-galaxy debris, test nucleosynthetic pathways in the metal-poor regime, and define the next generation of halo and stream science within the collaboration."
@@ -37,21 +37,21 @@ days:
       - time: 12:20 to 13:40
         title: Lunch
       - time: 13:40 to 14:00
-        title: "Elqui and Turranburra in S5 (Sarah Martell)"
-        subtitle: "I will describe our group's work to date using S5 data to investigate the Elqui and Turranburra streams. I will cover our process for determining membership, distance, velocity dispersion, and progenitor mass, and outline what remains do be done on the project."
-        category: General
-      - time: 14:00 to 14:20
-        title: "The origins of the dual Jhelum and Indus stream components (Andrew Li)"
-        subtitle: "Jhelum and Indus are two stellar streams targeted by the S5 survey, the former having displayed a unique behaviour of containing two kinematically distinct components. Using Gaussian mixture modelling, we procure an updated member list and report, for the first time, a second kinematically distinct component in Indus as well. Through various tests and simulations, we present new evidence of the reasons behind this phenomenon. This paper is in its final stages and will be ready for collaboration wide review."
-        category: Modelling
-      - time: 14:20 to 14:40
-        title: "Hot Halo Summer: Abundances Too Preliminary to Be Legal (Madeleine McKenzie)"
-        subtitle: "Stellar streams are key tracers of Galactic halo assembly, but their chemical characterisation has often relied on low-resolution spectroscopy. I will present preliminary chemical abundances for stars in the Indus and Jhelum stellar streams derived from high-resolution MIKE spectra. These results will be discussed in the context of the current landscape of stellar stream spectroscopy within S5."
+        title: "High-alpha streams (Aldo Mura)"
+        subtitle: "I will present my neverending work on high-alpha stellar streams. I will go through its comparison with intact dwarfs members, potential systematics, comparison with chemical evolution models, and why this high-alpha enrichment seems to be very hard to achieve with our current chemical evolution framework."
         category: Chemical
-      - time: 14:40 to 15:00
+      - time: 14:00 to 14:20
+        title: "Abundances in accreted dwarf galaxies: systematic differences between fully accreted systems and stellar streams (Miles Pearson)"
+        subtitle: "I will present a comparison between the abundance patterns in accreted dwarf galaxies and dwarf galaxy streams using data from Gaia, GALAH, as well as specific stream targeting surveys. Dwarf galaxy streams merged with the Milky Way at a much later time then phased mixed, fully accreted, systems. Understanding the differences in properties and evolution between these two groups is crucial to reconstruct the evolutionary history of both dwarf galaxies, and the whole Milky Way. Results have indicated that there is correlation between infall time of our fully accreted progenitors and their chemical composition, as well as a clear separation between our dwarf galaxy streams and their equivalent mass fully accreted systems. I will discuss the significance of these results as well as the challenges in using them to model the evolutionary history of these dwarf galaxies."
+        category: Chemical
+      - time: 14:20 to 14:40
         title: "Lost in the Stream. Can stellar streams from globular clusters reveal the origin of multiple populations? (Giacomo Cordoni)"
         subtitle: "Ancient globular clusters are fundamental building blocks of the Milky Way and key tracers of its early formation and chemical evolution, yet they host multiple stellar populations with distinct light-element abundance patterns whose origin remains poorly understood. Stellar streams formed through tidal stripping offer a direct means to probe the formation of these populations and to test competing formation scenarios. By comparing the chemical composition of stars in streams with that of their parent systems, it is possible to assess whether specific populations are preferentially lost into the Galactic halo. This project will exploit high- and intermediate-resolution UVES and GIRAFFE spectroscopy at the Very Large Telescope to derive precise abundances of key elements for approximately 60 stream stars, thereby placing strong constraints on the origin of multiple stellar populations."
         category: Chemical
+      - time: 14:40 to 15:00
+        title: "The S5 view of the Jet stream (Peter Ferguson)"
+        subtitle: "The Jet stream is a dynamically cold, retrograde stellar stream with a large pericenter, making it one of the most promising substructures for probing dark matter subhalo–stellar stream interactions. As part of the S5 survey, spectra have been obtained for objects in 17 fields spanning over 30° along the Jet stream. From these observations, we have identified ~150 member stars that can be used to reveal how the kinematic and spatial structure of the stream varies along its track. Additionally, I will compare these results to previous photometric studies."
+        category: General
       - time: 15:00 to 15:40
         title: Break
       - time: 15:40 to 16:00
@@ -61,35 +61,35 @@ days:
   - name: Presentation (Feb 3)
     events:
       - time: 9:20 to 9:40
-        title: "The S5 Survey’s View of the Enigmatic Cluster NGC 1851's Stellar Stream (Adithya GB)"
-        subtitle: "I will describe ongoing work using S5 observations to study and model the stellar stream associated with the globular cluster NGC 1851. Previous studies of NGC 1851 found an extended stellar halo and two distinct metallicity peaks, leading to the hypothesis that the cluster could be the product of the merger of two globular clusters, perhaps within the core of a now disrupted dwarf galaxy. I will present our analysis of stream membership and the distribution of metallicity and light elements along the stream. Finally, I’ll discuss the implications of this work for our understanding of other small and complex stellar systems in the Milky Way’s halo."
+        title: "Elqui and Turranburra in S5 (Sarah Martell)"
+        subtitle: "I will describe our group's work to date using S5 data to investigate the Elqui and Turranburra streams. I will cover our process for determining membership, distance, velocity dispersion, and progenitor mass, and outline what remains do be done on the project."
         category: Chemical
       - time: 9:40 to 10:00
-        title: "The S5 view of the Jet stream (Peter Ferguson)"
-        subtitle: "The Jet stream is a dynamically cold, retrograde stellar stream with a large pericenter, making it one of the most promising substructures for probing dark matter subhalo–stellar stream interactions. As part of the S5 survey, spectra have been obtained for objects in 17 fields spanning over 30° along the Jet stream. From these observations, we have identified ~150 member stars that can be used to reveal how the kinematic and spatial structure of the stream varies along its track. Additionally, I will compare these results to previous photometric studies."
-        category: General
-      - time: 10:00 to 10:20
-        title: "Charting Antlia II’s Tidal Debris with RR Lyrae Stars (Clara Martinez)"
-        subtitle: "Recent studies suggest that Antlia II is undergoing tidal disruption, evidenced by a clear velocity and distance gradient among its exceptionally pure RR Lyrae stars, supporting models of tidal influences on its stellar distribution. However, these studies did not extend far enough to map and examine the stellar stream associated with Antlia II. We therefore led an observing campaign using DECam to complement previous data and to map the outskirts of Antlia II over 60 sq. deg., identifying thousands of RR Lyrae stars which enable us to study the width of the stream and provide constraints on whether Antlia II was originally embedded in a cuspy or cored halo."
+        title: "The origins of the dual Jhelum and Indus stream components (Andrew Li)"
+        subtitle: "Jhelum and Indus are two stellar streams targeted by the S5 survey, the former having displayed a unique behaviour of containing two kinematically distinct components. Using Gaussian mixture modelling, we procure an updated member list and report, for the first time, a second kinematically distinct component in Indus as well. Through various tests and simulations, we present new evidence of the reasons behind this phenomenon. This paper is in its final stages and will be ready for collaboration wide review."
         category: Modelling
+      - time: 10:00 to 10:20
+        title: "Hot Halo Summer: Abundances Too Preliminary to Be Legal (Madeleine McKenzie)"
+        subtitle: "Stellar streams are key tracers of Galactic halo assembly, but their chemical characterisation has often relied on low-resolution spectroscopy. I will present preliminary chemical abundances for stars in the Indus and Jhelum stellar streams derived from high-resolution MIKE spectra. These results will be discussed in the context of the current landscape of stellar stream spectroscopy within S5."
+        category: Chemical
       - time: 10:20 to 11:00
         title: Break
       - time: 11:00 to 11:20
-        title: "High-alpha streams (Aldo Mura)"
-        subtitle: "I will present my neverending work on high-alpha stellar streams. I will go through its comparison with intact dwarfs members, potential systematics, comparison with chemical evolution models, and why this high-alpha enrichment seems to be very hard to achieve with our current chemical evolution framework."
+        title: "Why would you get chemical abundances in streams? (Alex Ji)"
+        subtitle: "S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target."
         category: Chemical
       - time: 11:20 to 11:40
-        title: "Abundances in accreted dwarf galaxies: systematic differences between fully accreted systems and stellar streams (Miles Pearson)"
-        subtitle: "I will present a comparison between the abundance patterns in accreted dwarf galaxies and dwarf galaxy streams using data from Gaia, GALAH, as well as specific stream targeting surveys. Dwarf galaxy streams merged with the Milky Way at a much later time then phased mixed, fully accreted, systems. Understanding the differences in properties and evolution between these two groups is crucial to reconstruct the evolutionary history of both dwarf galaxies, and the whole Milky Way. Results have indicated that there is correlation between infall time of our fully accreted progenitors and their chemical composition, as well as a clear separation between our dwarf galaxy streams and their equivalent mass fully accreted systems. I will discuss the significance of these results as well as the challenges in using them to model the evolutionary history of these dwarf galaxies."
-        category: Chemical
+        title: "Charting Antlia II’s Tidal Debris with RR Lyrae Stars (Clara Martínez-Vázquez)"
+        subtitle: "Recent studies suggest that Antlia II is undergoing tidal disruption, evidenced by a clear velocity and distance gradient among its exceptionally pure RR Lyrae stars, supporting models of tidal influences on its stellar distribution. However, these studies did not extend far enough to map and examine the stellar stream associated with Antlia II. We therefore led an observing campaign using DECam to complement previous data and to map the outskirts of Antlia II over 60 sq. deg., identifying thousands of RR Lyrae stars which enable us to study the width of the stream and provide constraints on whether Antlia II was originally embedded in a cuspy or cored halo."
+        category: Modelling
       - time: 11:40 to 12:00
+        title: "The S5 Survey’s View of the Enigmatic Cluster NGC 1851's Stellar Stream (Adithya GB)"
+        subtitle: "I will describe ongoing work using S5 observations to study and model the stellar stream associated with the globular cluster NGC 1851. Previous studies of NGC 1851 found an extended stellar halo and two distinct metallicity peaks, leading to the hypothesis that the cluster could be the product of the merger of two globular clusters, perhaps within the core of a now disrupted dwarf galaxy. I will present our analysis of stream membership and the distribution of metallicity and light elements along the stream. Finally, I’ll discuss the implications of this work for our understanding of other small and complex stellar systems in the Milky Way’s halo."
+        category: General
+      - time: 12:00 to 12:20
         title: "Chemical and Dynamical Memory of Accretion Events in the Milky Way Halo (Sven Buder)"
         subtitle: "The Milky Way halo contains multiple, partially overlapping records of past accretion events in phase space, chemistry, and stellar populations. In this talk, I will give a structured overview of recent results from my work and that of my students, focusing on what information about accreted systems is preserved, what is erased, and where current methods succeed or fail. Rather than a single narrative, the talk will be organised around a set of concrete topics, each with prepared (and expandable) slides. I warmly encourage questions and discussion on any of these points during or after the talk. Topics I will cover include: - Strengths and limitations of chemical and/or dynamical selections in GALAH survey data (Buder et al. 2022). - What cosmological zoom-in simulations tell us about the limitations of these selections (Buder et al. 2024) - How much information of merger progenitors is actually retained in the now accreted stars (Buder et al. 2025) - The chemical predictions cosmological zoom-in simulations for different elements in dwarf galaxies (Honours project by Shanti Woodend) - What our measurements in dwarf galaxies with low-resolution MUSE spectra suggests their actual chemical diversity may look like (Cornejo-Cárdenas, Buder, Ness in prep.)"
         category: Chemical
-      - time: 12:00 to 12:20
-        title: "TBD (Daniel Zucker)"
-        subtitle: TBD
-        category: General
       - time: 12:20 to 13:40
         title: Lunch
       - time: 13:40 to 15:00
@@ -128,7 +128,7 @@ days:
         subtitle: "AAOmega is a low to medium resolution spectrograph that has a large archive of stellar spectra dating from 2006 to 2021. I employ the use of the data driven algorithm “The Cannon” to estimate the stellar parameters Teff, log g, and [Fe/H], and abundances [X/Fe] for Si, Ca, Ti, Mn, and Ni for over 414,000 of these spectra, using the GALAH DR4 label scale."
         category: Chemical
       - time: 12:00 to 12:20
-        title: "Can insights from neural networks help us improve models of stellar atmospheres? (Tomasz  Różański)"
+        title: "Can insights from neural networks help us improve models of stellar atmospheres? (Tomasz Różański)"
         subtitle: "Neural networks trained on synthetic stellar spectra appear to develop internal features closely related to atomic physics and stellar atmospheres. I'll briefly share some results on how examining these internal network features might help us improve spectroscopic modeling."
         category: Chemical
       - time: 12:20 to 13:40

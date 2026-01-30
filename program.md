@@ -10,6 +10,6 @@ The meeting consists of two parts:
 - Siding Spring Observatory trip.
 
 The program schedule is shown here:
-<img width="1200" height="700" alt="Sydney_Program_details" src="{{ '/Sydney_Program_details.png' | relative_url }}">
+<img width="1200" height="1000" alt="Sydney_Program_details" src="{{ '/Sydney_Program_details.png' | relative_url }}">
 
 Expand following contents for schedule details.

@@ -28,7 +28,7 @@ groups:
         email: yong.yang@sydney.edu.au
         affil: The University of Sydney
 
-  - title: Participants (S5)
+  - title: S5 Participants
     sort: true
     columns: true
     members:
@@ -66,31 +66,13 @@ groups:
         surname: Ferguson
       - name: Lucas
         surname: Glover
-
-  - title: Participants (S5-online)
-    sort: true
-    columns: true
-    members:
       - name: Alex
-        surname: Ji
-      - name: Andrew
-        surname: Pace
+        surname: Ji (Online)    
       - name: Clara
-        surname: Martínez-Vázquez
-      - name: Ghilerme
-        surname: Limberg
-      - name: Gustavo
-        surname: Medina Toledo
-      - name: Kyler
-        surname: Kuehn
-      - name: Nathan
-        surname: Sandford
-      - name: Petra
-        surname: Awad
-      - name: Sam
-        surname: Usman
+        surname: Martínez-Vázquez(Online)
 
-  - title: Participants (friends)
+
+  - title: Australia-Based Participants
     sort: true
     columns: true
     members:
@@ -101,7 +83,7 @@ groups:
       - name: Luca
         surname: Casagrande
       - name: Melissa
-        surname: Ness
+        surname: Ness (Online)
       - name: Holger
         surname: Baumgardt
       - name: Tomasz

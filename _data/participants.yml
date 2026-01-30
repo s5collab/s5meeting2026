@@ -28,7 +28,7 @@ groups:
         email: yong.yang@sydney.edu.au
         affil: The University of Sydney
 
-  - title: S5 Participants
+  - title: Participants: S5 & Friends
     sort: true
     columns: true
     members:
@@ -70,12 +70,6 @@ groups:
         surname: Ji (Online)    
       - name: Clara
         surname: Martínez-Vázquez(Online)
-
-
-  - title: Australia-Based Participants
-    sort: true
-    columns: true
-    members:
       - name: Sven
         surname: Buder
       - name: Giacomo

@@ -75,13 +75,13 @@ days:
       - time: 10:20 to 11:00
         title: Break
       - time: 11:00 to 11:20
-        title: "Why would you get chemical abundances in streams? (Alex Ji)"
-        subtitle: "S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target."
-        category: Chemical
-      - time: 11:20 to 11:40
         title: "Charting Antlia II’s Tidal Debris with RR Lyrae Stars (Clara Martínez-Vázquez)"
         subtitle: "Recent studies suggest that Antlia II is undergoing tidal disruption, evidenced by a clear velocity and distance gradient among its exceptionally pure RR Lyrae stars, supporting models of tidal influences on its stellar distribution. However, these studies did not extend far enough to map and examine the stellar stream associated with Antlia II. We therefore led an observing campaign using DECam to complement previous data and to map the outskirts of Antlia II over 60 sq. deg., identifying thousands of RR Lyrae stars which enable us to study the width of the stream and provide constraints on whether Antlia II was originally embedded in a cuspy or cored halo."
         category: Modelling
+      - time: 11:20 to 11:40
+        title: "Why would you get chemical abundances in streams? (Alex Ji)"
+        subtitle: "S5 conducted one of the first large high-resolution spectroscopic studies of stellar streams. It was not initially clear what the most interesting science results would be. I will discuss what we learned about studying both dwarf galaxy and star cluster streams, and what the next generation of such studies should target."
+        category: Chemical
       - time: 11:40 to 12:00
         title: "The S5 Survey’s View of the Enigmatic Cluster NGC 1851's Stellar Stream (Adithya GB)"
         subtitle: "I will describe ongoing work using S5 observations to study and model the stellar stream associated with the globular cluster NGC 1851. Previous studies of NGC 1851 found an extended stellar halo and two distinct metallicity peaks, leading to the hypothesis that the cluster could be the product of the merger of two globular clusters, perhaps within the core of a now disrupted dwarf galaxy. I will present our analysis of stream membership and the distribution of metallicity and light elements along the stream. Finally, I’ll discuss the implications of this work for our understanding of other small and complex stellar systems in the Milky Way’s halo."

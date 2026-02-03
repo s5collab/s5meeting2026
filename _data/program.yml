@@ -120,9 +120,9 @@ days:
         subtitle: "In recent years a large number of tidal streams have been discovered in the halo of the Milky Way thanks to large scale surveys like Gaia. These streams can provide important information about the dark matter distribution in the Milky Way since many of them can be traced over long distances over the sky. In this contribution we report on a large set of N-body simulations aimed at modeling the formation and spatial distribution of tidal tails emerging from dissolving globular clusters and the comparison of observed streams with the results of our simulations."
         category: Modelling
       - time: 11:20 to 11:40
-        title: "TBD (Pradosh Barun Das)"
-        subtitle: TBD
-        category: General
+        title: "Mapping the Milky Way’s Chemistry with The Cannon: From GALAH DR4 to Gaia DR3 RVS (Pradosh Barun Das)"
+        subtitle: "We used the data-driven generative model, “The Cannon” to predict stellar parameters and abundances for eight individual elements -- including the neutron-capture elements Zr, Ce and Nd -- for nearly 350,000 Gaia DR3 RVS giants using GALAH DR4 as the reference labels. Analysing the results, we evaluated chemical tagging markers, such as combinations of alpha and neutron-capture elements, in order to distinguish accreted stellar populations like Gaia-Sausage-Enceladus (GSE). With the impending release of Gaia DR4, which will contain ~200 million RVS spectra, this framework can be readily extended to a much larger dataset, opening new windows into the accretion history and chemical evolution of the Milky Way."
+        category: Chemical
       - time: 11:40 to 12:00
         title: "Extending the AAOmega archive with The Cannon (Ethan Bull)"
         subtitle: "AAOmega is a low to medium resolution spectrograph that has a large archive of stellar spectra dating from 2006 to 2021. I employ the use of the data driven algorithm “The Cannon” to estimate the stellar parameters Teff, log g, and [Fe/H], and abundances [X/Fe] for Si, Ca, Ti, Mn, and Ni for over 414,000 of these spectra, using the GALAH DR4 label scale."

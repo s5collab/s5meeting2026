@@ -27,6 +27,22 @@ groups:
         surname: Yang
         email: yong.yang@sydney.edu.au
         affil: The University of Sydney
+      - name: Adithya
+        surname: Gudalur Balasubramaniam
+        email: adithya.gudalurbalasubramaniam1@students.mq.edu.au
+        affil: Macquarie University
+      - name: Pradosh
+        surname: Barun Das
+        email: pradoshbarun.das@hdr.mq.edu.au
+        affil: Macquarie University
+      - name: Ethan
+        surname: Bull
+        email: ethan.bull@hdr.mq.edu.au
+        affil: Macquarie University
+      - name: Simon
+        surname: Correra
+        email: simon.correra@students.mq.edu.au
+        affil: Macquarie University
 
   - title: "Participants: S5 & Friends"
     sort: true
@@ -36,8 +52,6 @@ groups:
         surname: Bland-Hawthorn
       - name: Madeleine
         surname: McKenzie
-      - name: Adithya
-        surname: Gudalur Balasubramaniam
       - name: Miles
         surname: Pearson
       - name: Gary
@@ -52,16 +66,10 @@ groups:
         surname: Erkal
       - name: Tim
         surname: Adams
-      - name: Pradosh
-        surname: Barun Das
       - name: Sergey
         surname: Koposov
-      - name: Ethan
-        surname: Bull
       - name: Andrew
         surname: Li
-      - name: Simon
-        surname: Correra
       - name: Peter
         surname: Ferguson
       - name: Lucas
